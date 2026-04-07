@@ -1,0 +1,24 @@
+# Data files
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+stock_analysis/
+.env
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Model files
+*.h5
+*.keras
